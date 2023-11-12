@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, rgb(205, 255, 4), #00ff00, #e1490d);
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 80px;
+    color: #333;
+}
+
+h2 {
+    text-decoration: underline;
+}
